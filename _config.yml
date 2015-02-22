@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Amir Razmjou
 locale:           en_US
 url:              
+destination:      ../arazmj.github.io
 
 
 # Jekyll configuration
@@ -26,31 +27,31 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Amir Razmjou
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  bio: "Researcher"
+  email: arazmjou2014@my.fit.edu
+  disqus-shortname: amirrazmjounet
+  twitter: arazmj
+  facebook: amir.razmjou
   google:
-    plus: #username
+    plus: 113817162653877217251
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: arazmj
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  lastfm: #username
+  linkedin: amirrazmjou
+  instagram: arazmj
+  lastfm: shotormotor
   tumblr: #username
-  pinterest: #username
-  foursquare: #username
+  pinterest: amirrazmjou
+  foursquare: user/88238703
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: arazmj
   soundcloud: #username
   weibo: #username
   flickr: #username
