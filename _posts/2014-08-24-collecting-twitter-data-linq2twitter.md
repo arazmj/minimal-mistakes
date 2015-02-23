@@ -4,7 +4,17 @@ title: Collecting Twitter Data using Linq2Twitter
 date: 2014-01-24 16:27:31
 comments: true
 ---
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 
+## Overview 
 I decided to use C# and LinqToTwitter library along with MongoDB. I chose C# since it’s pretty fun to have to have dynamism and imperative and function paradigms at the same time. I’m also tired of learning a new programming language.
 
 {% highlight csharp %}
