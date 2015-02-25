@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collecting Twitter Data using Linq2Twitter
+title: Collecting Data using Windows Azure Part 2
 date: 2014-01-24 16:27:31
 comments: true
 ---
